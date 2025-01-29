@@ -1,5 +1,10 @@
 # LedgerlyXprojectWing
 Git Repository for the project Ledgerly.
 <br>
-# Team Cloud
-- Arman Kumar Singh
+# MLSA
+- CLOUD
+- UI/UX
+- WEB
+- APP
+- CYBER SECQURITY
+  
