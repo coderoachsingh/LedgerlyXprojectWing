@@ -16,4 +16,5 @@ Git Repository for the project Ledgerly.
 
 # **About**
 - This project is about creating an app which will be an expense tracker
+  <br>
   -- in this we will upload the image of the reciept and it automatically checks the amount
