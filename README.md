@@ -14,3 +14,6 @@ Git Repository for the project Ledgerly.
   
  Changed this file using vs code
 
+# **About**
+- This project is about creating an app which will be an expense tracker
+  -- in this we will upload the image of the reciept and it automatically checks the amount
