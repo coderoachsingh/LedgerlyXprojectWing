@@ -7,7 +7,8 @@
 </h1>
 <br>
 LedgerlyXprojectWing
-**CLOUD**
+<br>
+CLOUD
 <br>
 Git Repository for the project Ledgerly.
 <br>
