@@ -1,17 +1,36 @@
 
-# LedgerlyXprojectWing
-![WhatsApp Image 2025-01-30 at 02 49 31_0ecac0bb](https://github.com/user-attachments/assets/1eb69113-453e-43b2-890c-a2bb2073cb00)
-<br>
-**CLOUD**
-<br>
-Git Repository for the project Ledgerly.
-<br>
-# **MLSA**
-- CLOUD
-- UI/UX
-- WEB
-- APP
-- CYBER SECQURITY
-  
- Changed this file using vs code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LedgerlyXprojectWing</title>
+</head>
+<body>
+    <div>
+        <h2><u>LedgerlyXprojectWing </u> </h2>
+         <img src="WhatsApp Image 2025-01-30 at 02.49.31_0ecac0bb.jpg" alt="" width="200px">  
+        <section>
+        
+            <h2><u>PROJECT ARCHITECTURE (CLOUD)</u></h2>
+            <img src="arch.png" alt="" width="800px">
+              <h1> Git Repository for the project Ledgerly.</h1>
+        
+        </section>
+        <div>
+            <h2>MLSA</h2>
+        </div>
+        
+            <li>CLOUD </li> 
+           <li> UI/UX</li>
+            <li>
+            APP</li>
+            <li>CYBER SECQURITY
+            </li>
+
+  </div>
+   
+
+</body>
+</html>
 
