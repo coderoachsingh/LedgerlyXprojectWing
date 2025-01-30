@@ -7,7 +7,7 @@
     <title>LedgerlyXprojectWing</title>
 </head>
 <body>
-    <div>
+    <
         <h2><u>LedgerlyXprojectWing </u> </h2>
          <img src="WhatsApp Image 2025-01-30 at 02.49.31_0ecac0bb.jpg" alt="" width="200px">  
         <section>
@@ -17,7 +17,7 @@
               <h1> Git Repository for the project Ledgerly.</h1>
         
         </section>
-        <div>
+        
             <h2>MLSA</h2>
         </div>
         
