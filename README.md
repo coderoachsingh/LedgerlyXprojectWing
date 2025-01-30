@@ -1,36 +1,15 @@
+## LedgerlyXprojectWing
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LedgerlyXprojectWing</title>
-</head>
-<body>
-    <
-        <h2><u>LedgerlyXprojectWing </u> </h2>
-         <img src="WhatsApp Image 2025-01-30 at 02.49.31_0ecac0bb.jpg" alt="" width="200px">  
-        <section>
-        
-            <h2><u>PROJECT ARCHITECTURE (CLOUD)</u></h2>
-            <img src="arch.png" alt="" width="800px">
-              <h1> Git Repository for the project Ledgerly.</h1>
-        
-        </section>
-        
-            <h2>MLSA</h2>
-        </div>
-        
-            <li>CLOUD </li> 
-           <li> UI/UX</li>
-            <li>
-            APP</li>
-            <li>CYBER SECQURITY
-            </li>
+<img src="https://github.com/user-attachments/assets/2ed977a1-f6da-48f6-9412-f8cb5412a8a7" width="300" />
 
-  </div>
-   
+## PROJECT ARCHITECTURE (CLOUD)
 
-</body>
-</html>
+<img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
 
+## Git Repository for the project Ledgerly.
+### MLSA
+
+- CLOUD
+- UI/UX
+- APP
+- CYBER SECQURITY
