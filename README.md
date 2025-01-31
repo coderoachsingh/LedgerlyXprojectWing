@@ -44,14 +44,15 @@
  <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="90" />
  <br>
 - GitHubg Actions<br>
-  <img src="https://github.com/user-attachments/assets/5eb3b554-5559-4c40-a0dd-489a157491e1" width="250" />
+  <img src="https://github.com/user-attachments/assets/5eb3b554-5559-4c40-a0dd-489a157491e1" width="350" />
 
   
 ## Working
 -A picture of the bill is uploded to the S3 bucket. 
-- lambda function is triggeredto scan and get the total amount from the bill.
+-lambda function is triggeredto scan and get the total amount from the bill.
 <br>
 -The expense data is stored in PostgreSQL database.
+
 
 
  
