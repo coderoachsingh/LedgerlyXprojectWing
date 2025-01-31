@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
 <br>
 
-## Tools and Services used:-
+## Tech Stack
 
 - EC2<br>
  <img src="https://github.com/user-attachments/assets/566d9777-a109-43f2-9b51-a7a99e4629e1" width="50" />
@@ -40,8 +40,15 @@
 - Next.js<br>
 <img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="50" />
 <br>
-  
+- AWS RDS Postgre SQL<br>
+ <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="60">
+ <br>
 
+  
+## Working
+A picture of the bill is uploded to the S3 bucket which further triggers lambda function is used to scan and get the total amount from the bill.
+<br>
+The expense data is stored in PostgreSQL database .
 
 
  
