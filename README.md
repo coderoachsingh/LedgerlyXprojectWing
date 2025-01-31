@@ -49,7 +49,8 @@
   
 ## Working
 -A picture of the bill is uploded to the S3 bucket. 
--lambda function is triggeredto scan and get the total amount from the bill.
+<br>
+-lambda function is triggered to scan and get the total amount from the bill.
 <br>
 -The expense data is stored in PostgreSQL database.
 
