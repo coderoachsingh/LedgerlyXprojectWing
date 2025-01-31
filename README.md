@@ -24,6 +24,7 @@
  <img src="https://github.com/user-attachments/assets/a7a38bf8-7fce-458e-8e82-25258863dc8a" width="80" />
  <br>
 - S3
+  <br>
   <img src="https://github.com/user-attachments/assets/27b8f3aa-9979-4da4-a298-7bc24cfb8b81" width="80" />
   <br>
 - Lambda<br>
