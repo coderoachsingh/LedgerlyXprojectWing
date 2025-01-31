@@ -44,7 +44,7 @@
  <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="90" />
  <br>
 - GitHubg Actions<br>
-  <img src="https://github.com/user-attachments/assets/5eb3b554-5559-4c40-a0dd-489a157491e1" width="70" />
+  <img src="https://github.com/user-attachments/assets/5eb3b554-5559-4c40-a0dd-489a157491e1" width="150" />
 
   
 ## Working
