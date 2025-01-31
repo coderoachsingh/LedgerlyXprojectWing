@@ -11,12 +11,7 @@
 <br>
 
 ## Tools and Services used:-
-- Cloud services<br>
-  <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="50"  /></a>
-  <br>
-- Next.js<br>
-<img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="50" />
-<br>
+
 - EC2<br>
  <img src="https://github.com/user-attachments/assets/566d9777-a109-43f2-9b51-a7a99e4629e1" width="50" />
  <br>
@@ -38,7 +33,12 @@
  <br>
 - Ecr<br>
  <img src="https://github.com/user-attachments/assets/329ccd7f-0d30-4b2f-8ae5-c7a0f72feb20" width="60" />
-
+- Cloud services<br>
+  <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="50"  /></a>
+  <br>
+- Next.js<br>
+<img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="50" />
+<br>
   
 
 
