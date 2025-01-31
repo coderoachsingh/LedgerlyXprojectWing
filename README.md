@@ -11,7 +11,6 @@
 <br>
 
 ## Tools and components used:-
-- AWS cloud   
-  <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="50"  />
+- AWS cloud   <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="50"  />
 
 
