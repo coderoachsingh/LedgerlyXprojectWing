@@ -12,21 +12,21 @@
 
 ## Tech Stack
 
-- EC2<br>
- <img src="https://github.com/user-attachments/assets/566d9777-a109-43f2-9b51-a7a99e4629e1" width="50" />
+ - EC2<br>
+ <img src="https://github.com/user-attachments/assets/566d9777-a109-43f2-9b51-a7a99e4629e1" width="70" />
  <br>
  - Docker<br>
- <img src="https://github.com/user-attachments/assets/a7a38bf8-7fce-458e-8e82-25258863dc8a" width="80" />
+ <img src="https://github.com/user-attachments/assets/a7a38bf8-7fce-458e-8e82-25258863dc8a" width="90" />
  <br>
 - S3
   <br>
-  <img src="https://github.com/user-attachments/assets/27b8f3aa-9979-4da4-a298-7bc24cfb8b81" width="80" />
+  <img src="https://github.com/user-attachments/assets/27b8f3aa-9979-4da4-a298-7bc24cfb8b81" width="90" />
   <br>
 - Lambda<br>
-   <img src="https://github.com/user-attachments/assets/7de5e288-a3cb-4f31-b768-f7f972d13527" width="60" />
+   <img src="https://github.com/user-attachments/assets/7de5e288-a3cb-4f31-b768-f7f972d13527" width="80" />
      <br>
 - Grafana<br>
-<img src="https://github.com/user-attachments/assets/dbd976fe-c588-4e4f-8e33-55cc81ccf598" width="60" />
+<img src="https://github.com/user-attachments/assets/dbd976fe-c588-4e4f-8e33-55cc81ccf598" width="80" />
 <br>
 - Prometheus<br>
  <img src="https://github.com/user-attachments/assets/5d56e722-c092-435f-90fe-fa7d4c3f4ab3" width="80" />
