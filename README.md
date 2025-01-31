@@ -29,19 +29,19 @@
 <img src="https://github.com/user-attachments/assets/dbd976fe-c588-4e4f-8e33-55cc81ccf598" width="60" />
 <br>
 - Prometheus<br>
- <img src="https://github.com/user-attachments/assets/5d56e722-c092-435f-90fe-fa7d4c3f4ab3" width="60" />
+ <img src="https://github.com/user-attachments/assets/5d56e722-c092-435f-90fe-fa7d4c3f4ab3" width="80" />
  <br>
 - Ecr<br>
- <img src="https://github.com/user-attachments/assets/329ccd7f-0d30-4b2f-8ae5-c7a0f72feb20" width="60" />
+ <img src="https://github.com/user-attachments/assets/329ccd7f-0d30-4b2f-8ae5-c7a0f72feb20" width="90" />
  <br>
 - Cloud services<br>
-  <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="50"  /></a>
+  <img src="https://github.com/user-attachments/assets/2b75fc76-6b25-4717-ac75-84d30f5f1ed9" width="90"  /></a>
   <br>
 - Next.js<br>
-<img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="50" />
+<img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="90" />
 <br>
 - AWS RDS Postgre SQL<br>
- <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="60">
+ <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="90">
  <br>
 
   
