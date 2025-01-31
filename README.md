@@ -41,12 +41,15 @@
 <img src="https://github.com/user-attachments/assets/036f645f-03bc-4d17-815a-8ab76aaa4d11" width="90" />
 <br>
 - AWS RDS Postgre SQL<br>
- <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="90">
+ <img src="https://github.com/user-attachments/assets/6bac65ed-fe91-4527-b672-b0f36d77286e" width="90" />
  <br>
+- GitHubg Actions<br>
+  <img src="https://github.com/user-attachments/assets/5eb3b554-5559-4c40-a0dd-489a157491e1" width="70" />
 
   
 ## Working
-A picture of the bill is uploded to the S3 bucket which further triggers lambda function is used to scan and get the total amount from the bill.
+-A picture of the bill is uploded to the S3 bucket. 
+- lambda function is triggeredto scan and get the total amount from the bill.
 <br>
 The expense data is stored in PostgreSQL database .
 
