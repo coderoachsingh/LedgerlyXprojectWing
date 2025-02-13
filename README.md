@@ -9,6 +9,53 @@
 
 <img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
 <br>
+## Project Structure
+
+```
+.
+├── README.md
+├── assets
+│   ├── arch.png
+│   ├── banner.png
+│   ├── er.png
+│   ├── goaccess.png
+│   ├── grafana.png
+│   ├── inboundrules.png
+│   └── lambda-uri.png
+├── docker-compose.yml
+├── monitoring
+│   ├── grafana
+│   │   └── datasources.yml
+│   └── prometheus
+│   └── prometheus
+│       └── prometheus.yaml
+└── services
+    ├── backend
+    │   ├── Dockerfile
+    │   ├── app
+    │   │   ├── __init__.py
+    │   │   ├── app.py
+    │   │   ├── core
+    │   │   │   ├── __init__.py
+    │   │   │   ├── config.py
+    │   │   │   ├── db.py
+    │   │   │   └── utils.py
+    │   │   ├── db
+    │   │   │   ├── __init__.py
+    │   │   │   └── models.py
+    │   │   ├── main.py
+    │   │   └── routers
+    │   │       ├── __init__.py
+    │   │       ├── auth.py
+    │   │       ├── deps.py
+    │   │       └── receipts.py
+    │   ├── pyproject.toml
+    │   └── uv.lock
+    ├── ledgerly.sql
+    └── receipt-ocr
+        ├── Dockerfile
+        └── app.py
+<br>
 
 ### Tech Stack
 ![NextJs](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
