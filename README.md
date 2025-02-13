@@ -11,8 +11,6 @@
 <br>
 ## Project Structure
 
-```
-.
 ├── README.md
 ├── assets
 │   ├── arch.png
