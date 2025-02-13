@@ -11,6 +11,7 @@
 <br>
 ## Project Structure
 
+```
 .
 ├── README.md
 ├── assets
@@ -25,7 +26,6 @@
 ├── monitoring
 │   ├── grafana
 │   │   └── datasources.yml
-│   └── prometheus
 │   └── prometheus
 │       └── prometheus.yaml
 └── services
