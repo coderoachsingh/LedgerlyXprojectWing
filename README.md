@@ -11,7 +11,7 @@
 <br>
 ## Project Structure
 
-
+```
 .
 ├── README.md
 ├── assets
@@ -54,6 +54,8 @@
     └── receipt-ocr
         ├── Dockerfile
         └── app.py
+
+```
 <br>
 
 ### Tech Stack
