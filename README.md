@@ -10,6 +10,7 @@
 <img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
 <br>
 ## Project Structure
+.
 
 ├── README.md
 ├── assets
