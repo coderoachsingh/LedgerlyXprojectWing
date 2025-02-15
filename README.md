@@ -1,6 +1,6 @@
 # LedgerlyXprojectWing
 
-<img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="1300" />
+<img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="1000" />
 
 
 
