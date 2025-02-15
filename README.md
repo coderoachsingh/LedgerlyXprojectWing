@@ -1,10 +1,8 @@
 # LedgerlyXprojectWing
 
-<img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="300" />
+<img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="1300" />
 
-<h1 align="center">Ledgerly</h1>
 
-<p align="center">
 
 <br>
 - The porject is to make an expense tracker which will be deployed on AWS 
