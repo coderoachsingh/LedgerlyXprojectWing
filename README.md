@@ -102,10 +102,15 @@ All of these services are run using Docker containers to ensure availability and
 
 ## Features
 ### Website
--Next.js App Router for building the frontend.<br>
--Amazon Web Services for backend functionality with EC2.<br>
--Support for S3 File Storage and Lambda Container image-based Functions.<br>
--Edge runtime-ready for enhanced performance.<br>
+- [NextJS](https://nextjs.org) App Router
+  - [Amazon Web Services](https://docs.aws.amazon.com/) for backend functionality with `EC2`
+  - Support for `S3` File Storage, and `Lambda` Container image based Functions
+  - Edge runtime-ready
+### AWS infrastructure
+ - [Amazon S3](https://aws.amazon.com/s3) Utilized for image storage.
+  - [AWS Lambda](https://aws.amazon.com/lambda) for processing JSON and filtering required data
+  - [Amazon EC2](https://aws.amazon.com/sns) for provisioning VM instances 
+  - [Amazon ECR](https://aws.amazon.com/ecr) for privately hosting container images 
 
 ## Working
 -A picture of the bill is uploded to the S3 bucket. 
