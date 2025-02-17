@@ -6,7 +6,7 @@
 
 <h1 align="center">Ledgerly</h1>
 <br>
-< p align="center">
+<p align="center">
 An open source, self hostable expense tracking platform built with NextJS, Python
 <br>
 and AWS for the Lambda functions and S3 object storage.
