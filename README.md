@@ -20,9 +20,12 @@ Manage and gain insights from your expenses.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
 <br>
-- the 
+ 
 </p>
-## Project Structure
+- The **backend** consists of three main services:-
+1. Python based REST API developed using FastAPI for serving requests 
+2. RDS postgres database for data storage and retrieval 
+3. S3 Bucket for image storage and hosting
 
 ```
 .
