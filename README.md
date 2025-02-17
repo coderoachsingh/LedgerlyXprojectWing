@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="1000" />
 
+<p align="center">
 
 # Ledgerly 
 <br>
@@ -10,6 +11,7 @@ An open source, self hostable expense tracking platform built with NextJS, Pytho
 and AWS for the Lambda functions and S3 object storage.
 <br>
 Manage and gain insights from your expenses.
+</p>
 
 # PROJECT ARCHITECTURE (CLOUD)
 
