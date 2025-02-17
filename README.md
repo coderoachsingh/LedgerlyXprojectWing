@@ -1,9 +1,9 @@
-# LedgerlyXprojectWing
+
 
 <img src="https://github.com/user-attachments/assets/1f7fa88b-1991-4129-a5f2-d93b26f9c341" width="1000" />
 
 
-
+# Ledgerly 
 <br>
 An open source, self hostable expense tracking platform built with NextJS, Python
 <br>
