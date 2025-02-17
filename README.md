@@ -6,7 +6,9 @@
 
 <br>
 An open source, self hostable expense tracking platform built with NextJS, Python
+<br>
 and AWS for the Lambda functions and S3 object storage.
+<br>
 Manage and gain insights from your expenses.
 
 # PROJECT ARCHITECTURE (CLOUD)
