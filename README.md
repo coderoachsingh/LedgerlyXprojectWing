@@ -30,10 +30,11 @@ The backend consists of three services:
 2. RDS postgres database for data storage and retrieval <br>
 3. S3 Bucket for image storage and hosting 
 <br>
-<p style="text-decoration: underline;">Additional services:-</p>
+Additional services:-
+
 1. Traefik:Acts as a reverse proxy for automatic SSL provisioning and log generation.<br>
 2. Prometheus and Grafana: Collect and visualize resource usage with custom log exporters.<br>
-
+All of these services are run using Docker containers to ensure availability and performance.
 
 ## Project structure 
 
