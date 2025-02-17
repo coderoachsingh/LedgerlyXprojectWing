@@ -5,7 +5,9 @@
 
 
 <br>
-The project is to make an expense tracker which will be deployed on AWS 
+An open source, self hostable expense tracking platform built with NextJS, Python
+and AWS for the Lambda functions and S3 object storage.
+Manage and gain insights from your expenses.
 
 # PROJECT ARCHITECTURE (CLOUD)
 
