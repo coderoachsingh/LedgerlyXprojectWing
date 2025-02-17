@@ -102,7 +102,7 @@ All of these services are run using Docker containers to ensure availability and
 
 ## Features
 ### Website
-- [NextJS](https://nextjs.org) App Router
+  - [NextJS](https://nextjs.org) App Router
   - [Amazon Web Services](https://docs.aws.amazon.com/) for backend functionality with `EC2`
   - Support for `S3` File Storage, and `Lambda` Container image based Functions
   - Edge runtime-ready
