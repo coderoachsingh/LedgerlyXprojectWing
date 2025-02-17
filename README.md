@@ -22,7 +22,9 @@ Manage and gain insights from your expenses.
 <br>
  
 </p>
-<p style="text-decoration: underline;">The backend consists of three services:-</p>
+<br>
+<br>
+The backend consists of three services:
 
 <br>
 1. Python based REST API developed using FastAPI for serving requests <br>
