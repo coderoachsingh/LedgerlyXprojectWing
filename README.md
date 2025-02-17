@@ -23,14 +23,14 @@ Manage and gain insights from your expenses.
  
 </p>
 <br>
-<br>
-The backend consists of three services:
+
+**The backend consists of three services:-**
 
 1. Python based REST API developed using FastAPI for serving requests <br>
 2. RDS postgres database for data storage and retrieval <br>
 3. S3 Bucket for image storage and hosting 
 <br>
-Additional services:-
+**Additional services:-**
 
 1. Traefik:Acts as a reverse proxy for automatic SSL provisioning and log generation.<br>
 2. Prometheus and Grafana: Collect and visualize resource usage with custom log exporters.<br>
