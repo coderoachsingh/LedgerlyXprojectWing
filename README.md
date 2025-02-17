@@ -111,6 +111,11 @@ All of these services are run using Docker containers to ensure availability and
   - [AWS Lambda](https://aws.amazon.com/lambda) for processing JSON and filtering required data
   - [Amazon EC2](https://aws.amazon.com/sns) for provisioning VM instances 
   - [Amazon ECR](https://aws.amazon.com/ecr) for privately hosting container images 
+### External
+  - [Prometheus](https://prometheus.io/docs/introduction/overview/), [Grafana](https://grafana.com/docs/grafana/latest/) and [GoAccess](https://goaccess.io/) for extensive observability and monitoring of resources. 
+  - [Gemini API](https://ai.google.dev/gemini-api/docs) for image to text extraction using Vision Model within free tier limits.
+  - [Github Actions](https://github.com/features/actions) CI pipelines to build, test and push application images from Github to various registries.
+  - [Traefik](https://doc.traefik.io/) acts as a dynamic reverse proxy and automatically manages SSL/TLS certificates
 
 ## Working
 -A picture of the bill is uploded to the S3 bucket. 
