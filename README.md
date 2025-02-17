@@ -31,9 +31,9 @@ The backend consists of three services:
 3. S3 Bucket for image storage and hosting 
 <br>
 <p style="text-decoration: underline;">Additional services:-</p>
-<br>
-Traefik:Acts as a reverse proxy for automatic SSL provisioning and log generation.<br>
-Prometheus and Grafana: Collect and visualize resource usage with custom log exporters.<br>
+1. Traefik:Acts as a reverse proxy for automatic SSL provisioning and log generation.<br>
+2. Prometheus and Grafana: Collect and visualize resource usage with custom log exporters.<br>
+
 
 ## Project structure 
 
