@@ -22,7 +22,8 @@ Manage and gain insights from your expenses.
 <br>
  
 </p>
-- The **backend** consists of three main services:-
+- The backend consists of three main services:-
+<br>
 1. Python based REST API developed using FastAPI for serving requests <br>
 2. RDS postgres database for data storage and retrieval <br>
 3. S3 Bucket for image storage and hosting <br>
