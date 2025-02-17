@@ -6,12 +6,13 @@
 
 <h1 align="center">Ledgerly</h1>
 <br>
+
 An open source, self hostable expense tracking platform built with NextJS, Python
 <br>
 and AWS for the Lambda functions and S3 object storage.
 <br>
 Manage and gain insights from your expenses.
-<
+<br>
 # PROJECT ARCHITECTURE (CLOUD)
 
 <img src="https://github.com/user-attachments/assets/373d6857-c452-44d3-90f6-090236fa53bf" width="600" />
